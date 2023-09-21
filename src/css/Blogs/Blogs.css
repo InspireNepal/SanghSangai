@@ -54,9 +54,12 @@
   padding-left: 30px;
   position: relative;
 }
+.featured-info a {
+  text-decoration: none;
+}
 .featured-info h3 {
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: 900;
   color: var(--primary-color);
   margin: 10px 0;
   padding-left: 20px;
@@ -101,6 +104,9 @@
 }
 .blog-info span {
   font-size: 14px;
+}
+.blog-info a {
+  text-decoration: none;
 }
 .blog-info h3 {
   font-size: 1.5rem;

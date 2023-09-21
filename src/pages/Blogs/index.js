@@ -47,10 +47,12 @@ const Blogs = () => {
               <span>
                 {Reflections[0].category} | {Reflections[0].publishedDate}
               </span>
-              <h3>{Reflections[0].title}</h3>
-              <p>{Reflections[0].content.substring(0, 120) + " ..."}</p>
+              <Link to={Reflections[0].titleSlug}>
+                <h3>{Reflections[0].title}</h3>
+              </Link>
+              <p>{Reflections[0].content.substring(0, 210) + " ..."}</p>
               <div className="read-more">
-                <Link to="/singlepage">
+                <Link to={Reflections[0].titleSlug}>
                   Read More <i className="fa-solid fa-arrow-right-long"></i>
                 </Link>
               </div>

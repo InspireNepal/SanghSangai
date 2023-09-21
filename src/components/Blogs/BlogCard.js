@@ -12,7 +12,9 @@ const BlogCard = (props) => {
           <span>
             {props.blog.category} | {props.blog.publishedDate}
           </span>
-          <h3>{props.blog.title}</h3>
+          <Link to={props.blog.titleSlug}>
+            <h3>{props.blog.title}</h3>
+          </Link>
           <p>{props.blog.content.substring(0, 120) + " ..."}</p>
         </div>
         <div className="read-more">
