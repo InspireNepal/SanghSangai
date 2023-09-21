@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/SanghSangai/static/css/main.ce3b6773.css",
+    "main.js": "/SanghSangai/static/js/main.3b8d4498.js",
+    "static/js/787.9fa786b9.chunk.js": "/SanghSangai/static/js/787.9fa786b9.chunk.js",
+    "static/media/team.jpg": "/SanghSangai/static/media/team.65b86734273b18aa2d66.jpg",
+    "static/media/riya.jpg": "/SanghSangai/static/media/riya.c0031bc6567407805b8f.jpg",
+    "static/media/teamSanghSangai.jpg": "/SanghSangai/static/media/teamSanghSangai.98994296dec8b338ef6d.jpg",
+    "static/media/cp4.jpg": "/SanghSangai/static/media/cp4.21c409507d5c8de8ade4.jpg",
+    "static/media/cp2.jpg": "/SanghSangai/static/media/cp2.a042fda29839a4dea968.jpg",
+    "static/media/cp3.jpg": "/SanghSangai/static/media/cp3.be59d1434de33cfb1448.jpg",
+    "static/media/cp1.jpg": "/SanghSangai/static/media/cp1.746d27b636e16eb28dcc.jpg",
+    "static/media/inspire.png": "/SanghSangai/static/media/inspire.ea98dd53f24caadd1118.png",
+    "static/media/team-background.png": "/SanghSangai/static/media/team-background.38e5001fb26e418c9363.png",
+    "static/media/anushka.jpg": "/SanghSangai/static/media/anushka.669675e0758e2f8e38fb.jpg",
+    "static/media/subash.jpg": "/SanghSangai/static/media/subash.812c2973171d8769e9e4.jpg",
+    "static/media/aeliya.jpg": "/SanghSangai/static/media/aeliya.a7db4352e0720e19a1b2.jpg",
+    "static/media/testomonial.png": "/SanghSangai/static/media/testomonial.50cd67459bf254e63184.png",
+    "static/media/slick.svg": "/SanghSangai/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/SanghSangai/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/SanghSangai/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/SanghSangai/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/SanghSangai/index.html",
+    "main.ce3b6773.css.map": "/SanghSangai/static/css/main.ce3b6773.css.map",
+    "main.3b8d4498.js.map": "/SanghSangai/static/js/main.3b8d4498.js.map",
+    "787.9fa786b9.chunk.js.map": "/SanghSangai/static/js/787.9fa786b9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3b6773.css",
+    "static/js/main.3b8d4498.js"
+  ]
+}
