@@ -1,8 +1,10 @@
 import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import "./App.css";
 import Home from "./pages/Home";
-import SinglePage from "./pages/Blogs/SinglePage";
+
 import Blogs from "./pages/Blogs";
+import Sprint1 from "./pages/Blogs/Sprint1";
+import Sprint2 from "./pages/Blogs/Sprint2";
 
 function App() {
   return (
@@ -12,7 +14,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/blogs" element={<Blogs />} />
-          <Route path="/singlepage" element={<SinglePage />} />
+          <Route path="/blogs/1" element={<Sprint1 />} />
+          <Route path="/blogs/2" element={<Sprint2 />} />
         </Routes>
         {/* </HashRouter> */}
       </BrowserRouter>

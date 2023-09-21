@@ -14,11 +14,11 @@ const BlogCard = (props) => {
           </span>
           <h3>{props.blog.title}</h3>
           <p>{props.blog.content.substring(0, 120) + " ..."}</p>
-          <div className="read-more">
-            <Link to={props.blog.link}>
-              Read More <i className="fa-solid fa-arrow-right-long"></i>
-            </Link>
-          </div>
+        </div>
+        <div className="read-more">
+          <Link to={props.blog.link}>
+            Read More <i className="fa-solid fa-arrow-right-long"></i>
+          </Link>
         </div>
       </div>
     </div>
