@@ -1,7 +1,7 @@
 import React from "react";
 import img6 from "../img/inspire.png";
 import img7 from "../img/tearfund.png";
-import img8 from "../img/micah.jpg";
+import img8 from "../img/micahlogo.jpg";
 import "../css/PartnerCard.css";
 
 const PartnerCard = () => {

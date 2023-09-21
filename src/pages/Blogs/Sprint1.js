@@ -1,10 +1,10 @@
 import React from "react";
 import "../../css/Blogs/SinglePage.css";
-import blogpic from "../../img/team.jpg";
+import blogpic from "../../img/teamSanghSangai.jpg";
 import inspire from "../../img/inspire.png";
 import Default from "../../layouts/Default";
 
-const SinglePage = () => {
+const Sprint1 = () => {
   return (
     <Default>
       <div className="blogpage">
@@ -18,7 +18,7 @@ const SinglePage = () => {
           </div>
 
           <div className="content">
-            <h1>Our Journey at Inspire Nepal</h1>
+            <h1>Team reflection for the first sprint</h1>
             <span>15th September, 2023</span>
             <p>
               During this month, we all had been working and learning together.
@@ -49,14 +49,14 @@ const SinglePage = () => {
             </p>
           </div>
 
-          <div className="pagination">
+          {/* <div className="pagination">
             <a href="">Prev</a>
             <a href="">Next</a>
-          </div>
+          </div> */}
         </div>
       </div>
     </Default>
   );
 };
 
-export default SinglePage;
+export default Sprint1;
