@@ -63,23 +63,23 @@ const Header = () => {
       <nav id="navigation">
         <ul>
           <li className="nav-list active" onClick={activate}>
-            <a href="#background" onClick={scrollToBackground}>
+            <a href="/SanghSangai/#background" onClick={scrollToBackground}>
               Background
             </a>
           </li>
 
           <li className="nav-list" onClick={activate}>
-            <a href="#communityPartner" onClick={scrollToCP}>
+            <a href="/SanghSangai/#communityPartner" onClick={scrollToCP}>
               Community Partner
             </a>
           </li>
           <li className="nav-list" onClick={activate}>
-            <a href="#project" onClick={scrollToProject}>
+            <a href="/SanghSangai/#project" onClick={scrollToProject}>
               Project
             </a>
           </li>
           <li className="nav-list" onClick={activate}>
-            <a href="#team" onClick={scrollToTeam}>
+            <a href="/SanghSangai/#team" onClick={scrollToTeam}>
               Team
             </a>
           </li>

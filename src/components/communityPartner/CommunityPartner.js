@@ -1,5 +1,6 @@
 import React from "react";
-import communityPartner from "../../img/team.jpg";
+import communityPartner1 from "../../img/tearfundpeople.jpg";
+import communityPartner2 from "../../img/micah.jpg";
 import "../../css/CommunityPartner.css";
 
 const CommunityPartner = () => {
@@ -10,10 +11,10 @@ const CommunityPartner = () => {
     >
       <div className="image-container">
         <div className="first-image">
-          <img className="object-fit-cover" src={communityPartner} alt="" />
+          <img className="object-fit-cover" src={communityPartner2} alt="" />
         </div>
         <div className="second-image">
-          <img className="object-fit-cover" src={communityPartner} alt="" />
+          <img className="object-fit-cover" src={communityPartner1} alt="" />
         </div>
       </div>
       <div className="content">
