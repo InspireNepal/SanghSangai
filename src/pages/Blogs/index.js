@@ -2,6 +2,7 @@ import "../../css/Blogs/Blogs.css";
 import Default from "../../layouts/Default";
 import BlogCard from "../../components/Blogs/BlogCard";
 import { Link } from "react-router-dom";
+import Reflections from "../../reflections.json";
 
 const Blogs = () => {
   const blogs = [
@@ -40,14 +41,14 @@ const Blogs = () => {
               <h2 className="text-center">Featured Reflection</h2>
             </div>
             <div className="col-md-5">
-              <img src={blogs[0].image} />
+              <img src={Reflections[0].image} />
             </div>
             <div className="col-md-7 featured-info">
               <span>
-                {blogs[0].category} | {blogs[0].publishedDate}
+                {Reflections[0].category} | {Reflections[0].publishedDate}
               </span>
-              <h3>{blogs[0].title}</h3>
-              <p>{blogs[0].content.substring(0, 120) + " ..."}</p>
+              <h3>{Reflections[0].title}</h3>
+              <p>{Reflections[0].content.substring(0, 120) + " ..."}</p>
               <div className="read-more">
                 <Link to="/singlepage">
                   Read More <i className="fa-solid fa-arrow-right-long"></i>
@@ -56,7 +57,7 @@ const Blogs = () => {
             </div>
           </div>
         </div>
-        <div className="blog-list">
+        {/* <div className="blog-list">
           <div className="row justify-content-center">
             <div className="col-md-12 section-title">
               <h2 className="text-center">Our Reflections</h2>
@@ -65,7 +66,17 @@ const Blogs = () => {
 
             <BlogCard blog={blogs[1]} />
 
-            {/* <BlogCard blog={blogs[2]} /> */}
+            <BlogCard blog={blogs[2]} />
+          </div>
+        </div> */}
+        <div className="blog-list">
+          <div className="row justify-content-center">
+            <div className="col-md-12 section-title">
+              <h2 className="text-center">Our Reflections</h2>
+            </div>
+            {Reflections.map((reflection) => (
+              <BlogCard blog={reflection} />
+            ))}
           </div>
         </div>
       </div>

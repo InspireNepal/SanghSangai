@@ -16,7 +16,7 @@ const BlogCard = (props) => {
           <p>{props.blog.content.substring(0, 120) + " ..."}</p>
         </div>
         <div className="read-more">
-          <Link to={props.blog.link}>
+          <Link to={props.blog.titleSlug}>
             Read More <i className="fa-solid fa-arrow-right-long"></i>
           </Link>
         </div>
