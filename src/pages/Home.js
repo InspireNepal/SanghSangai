@@ -25,6 +25,7 @@ import AboutSlider from "../components/AboutSlider";
 import Banner from "../components/Banner";
 import PartnerCard from "../components/PartnerCard";
 import Default from "../layouts/Default";
+import Ambassador from "../components/Ambassador";
 
 const Home = () => {
   return (
@@ -41,6 +42,7 @@ const Home = () => {
         <CommunityPartner />
         <CPActivities />
         <ProjectDesc />
+        <Ambassador />
         <div id="team" className="team-wrap">
           <div className="container">
             <h2 className="heading text-center mb-5">Meet Our Team</h2>
