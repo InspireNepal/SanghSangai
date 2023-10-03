@@ -9,8 +9,7 @@ import { useParams } from "react-router-dom";
 const Layout = () => {
   const { slug } = useParams();
   const content = Reflections.find((content) => content.titleSlug == slug);
-  //   console.log(slug);
-  //   console.log(content);
+
   return (
     <Default>
       <div className="blogpage">
