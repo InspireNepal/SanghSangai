@@ -1,20 +1,18 @@
 [
   {
-    "id": 1,
+    "title": "Team reflection for the second sprint",
+    "titleSlug": "team-reflection-for-the-second-sprint",
+    " ": "During this sprint, our team accomplished several key tasks. First, we conducted an in-depth system study to gain a better understanding of the project. Next, we generated dummy data using Postman, creating Data Transfer Objects (DTOs), and also collected data from a web form to test its functionality. We allocated a significant amount of time to enhance our comprehension of the system's intricacies.\n\nWe had a productive meeting with our main Community Partner(Micah Nepal) to discuss project details.We also  followed up with Tearfund to maintain communication and progress tracking of the system.\n\n  We also dedicated effort to prepare a presentation for playback-II, as we wanted to improve upon our previous performance in this regard. Additionally, we conducted trial runs to ensure everything was functioning smoothly.\n\n What's equally noteworthy is the remarkable progress we've witnessed within our team dynamics. There's a genuine sense of openness and camaraderie that has emerged among team members, which has greatly contributed to an atmosphere of trust and seamless collaboration.It's worth mentioning that, at one point this week, we encountered a minor conflict within the team concerning the choice of colors in our presentation.\n\nHowever, I'm pleased to say that we successfully resolved this issue through constructive dialogue and compromise. This experience highlights our team's ability to address challenges head-on and work together to find creative solutions, strengthening our overall cohesiveness and problem-solving capabilities.",
+    "image": "/SanghSangai/images/reflection2.jpg",
+    "category": "Team Reflection",
+    "publishedDate": "29th September 2023"
+  },
+  {
     "title": "Team reflection for the first sprint",
     "titleSlug": "team-reflection-for-the-first-sprint",
-    "content": "During this month, we all had been working and learning together. After the team division, we worked together while making contentwhich includes our introduction, team photo and information aboutour community partners for our project web page. Our team got tomeet one of the community partner Tearfund Nepal’s representativeson 14th September, Friday. In this meeting, we had a generalintroduction sharing session. We agreed to have a meeting once aweek with Micah Nepal and once every two weeks with TearfundNepal. On 14th September, Friday we had our first playback. Themain focus was to introduce our project to the Canada team. Weworked effectively while making the presentation. We understoodeach of our strengths and weaknesses. Each member contributedwhile getting the presentation ready. There were some confusionsregarding what we should include and what we should not. Webelieve that the playback did not go as we planned. We made somemistakes which we will make sure to correct in the next playback.Also, we will be working on our communication and presentationskills to feel more confident in the upcoming meetings. One thingthat we realized is that we need more preparation beforehand. Dueto limited time, we were also not able to conduct a dry run. Webelieve these mistakes should be taken positively and work on itso that it will not be repeated next time. Overall, it was a goodexperience and we are enjoying the process. We’re looking forwardto collaborating within our team and bringing out the best in eachother.",
+    "content": "During this month, we all had been working and learning together. After the team division, we worked together while making content which includes our introduction, team photo and information about our community partners  for our  project web page\n\nOur team got to meet one of the community partner Tearfund Nepal’s representatives on 14th September, Friday. In this meeting, we had a general introduction sharing session. We agreed to have a meeting once a week with Micah Nepal and once every two weeks with Tearfund Nepal\n\nOn 14th September, Friday we had our first playback. The main focus was to introduce our project to the Canada team. We worked effectively while making the presentation. We understood each of our strengths and weaknesses. Each member contributed while getting the presentation ready. There were some confusions regarding what we should include and what we should not\n\nWe believe that the playback did not go as we planned. We made some mistakes which we will make sure to correct in the next playback. Also, we will be working on our communication and presentation skills to feel more confident in the upcoming meetings. One thing that we realized is that we need more preparation beforehand. Due to limited time, we were also not able to conduct a dry run. We believe these mistakes should be taken positively and work on it so that it will not be repeated next time.\n\nOverall, it was a good experience and we are enjoying the process. We’re looking forward to collaborating within our team and bringing out the best in each other.",
     "image": "/SanghSangai/images/reflection1.jpg",
     "category": "Team Reflection",
     "publishedDate": "15th September 2023"
-  },
-  {
-    "id": 2,
-    "title": "Team reflection for the second sprint - Coming soon ...",
-    "titleSlug": "team-reflection-for-the-second-sprint",
-    "content": "Content 2",
-    "image": "/SanghSangai/images/comingsoon.jpg",
-    "category": "Team Reflection",
-    "publishedDate": "29th September 2023"
   }
 ]

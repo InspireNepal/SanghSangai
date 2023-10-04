@@ -1,0 +1,84 @@
+.ambassador {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 150px;
+}
+.ambassador-div {
+  display: flex;
+  max-width: 900px;
+}
+
+img {
+  object-fit: cover;
+}
+
+.imgam {
+  width: 400px;
+  height: 400px;
+}
+
+.am-description {
+  display: flex;
+  justify-content: center;
+  text-align: justify;
+  flex-direction: column;
+  padding: 20px;
+  padding-right: 30px;
+  /* width: 400px; */
+  height: 400px;
+  background-color: rgb(240, 240, 240);
+  border-radius: 0 0 3em 0;
+  line-height: 0.5cm;
+}
+
+.am-description .desc {
+  border-left: 2px solid #006241;
+  padding-left: 12px;
+  margin-bottom: 25px;
+}
+
+.ambassadorname {
+  font-weight: bold;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 15px;
+  color: #006241;
+}
+
+.universityname {
+  margin-bottom: 0 !important;
+}
+
+@media (max-width: 768px) {
+  .ambassador {
+    flex-direction: column;
+    align-items: center;
+    padding-top: 50px;
+  }
+
+  .ambassador-div {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .imgam {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+  }
+
+  .desc {
+    margin-bottom: 40px;
+  }
+
+  .am-description {
+    width: 100%;
+    border-radius: 0;
+    /* text-align: center; */
+    text-align: justify;
+  }
+}
