@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/SanghSangai/static/css/main.e59624ee.css",
-    "main.js": "/SanghSangai/static/js/main.bb3041b4.js",
+    "main.css": "/SanghSangai/static/css/main.903c44d3.css",
+    "main.js": "/SanghSangai/static/js/main.7b77e021.js",
     "static/js/787.9fa786b9.chunk.js": "/SanghSangai/static/js/787.9fa786b9.chunk.js",
     "static/media/cp1.jpg": "/SanghSangai/static/media/cp1.de67be1a87b3f1b6540e.jpg",
     "static/media/micah.jpg": "/SanghSangai/static/media/micah.2b7b4fa49e0b41895577.jpg",
     "static/media/aarjan.png": "/SanghSangai/static/media/aarjan.4393541d41d2554c3a7c.png",
     "static/media/team.jpg": "/SanghSangai/static/media/team.65b86734273b18aa2d66.jpg",
     "static/media/riya.jpg": "/SanghSangai/static/media/riya.c0031bc6567407805b8f.jpg",
+    "static/media/anushka.jpg": "/SanghSangai/static/media/anushka.7ee8c7e0286151864627.jpg",
     "static/media/teamSanghSangai.jpg": "/SanghSangai/static/media/teamSanghSangai.98994296dec8b338ef6d.jpg",
     "static/media/cp4.jpg": "/SanghSangai/static/media/cp4.21c409507d5c8de8ade4.jpg",
     "static/media/tearfundpeople.jpg": "/SanghSangai/static/media/tearfundpeople.f420dbbe0cdee51443d9.jpg",
@@ -15,7 +16,6 @@
     "static/media/cp3.jpg": "/SanghSangai/static/media/cp3.be59d1434de33cfb1448.jpg",
     "static/media/inspire.png": "/SanghSangai/static/media/inspire.ea98dd53f24caadd1118.png",
     "static/media/team-background.png": "/SanghSangai/static/media/team-background.38e5001fb26e418c9363.png",
-    "static/media/anushka.jpg": "/SanghSangai/static/media/anushka.669675e0758e2f8e38fb.jpg",
     "static/media/subash.jpg": "/SanghSangai/static/media/subash.812c2973171d8769e9e4.jpg",
     "static/media/aeliya.jpg": "/SanghSangai/static/media/aeliya.a7db4352e0720e19a1b2.jpg",
     "static/media/comingsoon.jpg": "/SanghSangai/static/media/comingsoon.cba78a7aea8febc48f0d.jpg",
@@ -25,12 +25,12 @@
     "static/media/slick.ttf": "/SanghSangai/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/SanghSangai/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/SanghSangai/index.html",
-    "main.e59624ee.css.map": "/SanghSangai/static/css/main.e59624ee.css.map",
-    "main.bb3041b4.js.map": "/SanghSangai/static/js/main.bb3041b4.js.map",
+    "main.903c44d3.css.map": "/SanghSangai/static/css/main.903c44d3.css.map",
+    "main.7b77e021.js.map": "/SanghSangai/static/js/main.7b77e021.js.map",
     "787.9fa786b9.chunk.js.map": "/SanghSangai/static/js/787.9fa786b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e59624ee.css",
-    "static/js/main.bb3041b4.js"
+    "static/css/main.903c44d3.css",
+    "static/js/main.7b77e021.js"
   ]
 }
