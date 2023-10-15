@@ -23,3 +23,12 @@
 .slick-next:before {
   color: var(--primary-color) !important;
 }
+
+@media screen and (max-width: 768px) {
+  .about-slider {
+    padding-top: 50px;
+  }
+  .about-slider-item {
+    padding: 0;
+  }
+}

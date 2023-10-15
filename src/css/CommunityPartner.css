@@ -97,20 +97,26 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding: 15px;
+  }
+  .communityPartner .image-container {
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
   }
 
   .communityPartner .image-container {
-    /* width: 100%;
-    display: flex;
-    align-items: center;
-    justify-self: center; */
-    padding: 0 70px 0 70px;
+    margin: 0;
+  }
+  .communityPartner .image-container .first-image {
+    width: 100%;
+    height: auto;
   }
 
   .communityPartner .image-container .first-image img {
     border-radius: 50px 0 50px 0;
-    width: 300px;
-    height: 400px;
+    width: 100%;
+    height: auto;
   }
 
   .communityPartner .image-container .second-image {
@@ -119,5 +125,8 @@
 
   .communityPartner .content {
     padding: 0 70px 0 70px;
+  }
+  .communityPartner .content .desc {
+    padding: 15px;
   }
 }
