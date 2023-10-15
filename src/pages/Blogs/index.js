@@ -23,7 +23,7 @@ const Blogs = () => {
               <Link to={Reflections[0].titleSlug}>
                 <h3>{Reflections[0].title}</h3>
               </Link>
-              <p>{Reflections[0].content.substring(0, 210) + " ..."}</p>
+              <p>{Reflections[0].content.substring(0, 110) + " ..."}</p>
 
               <div className="read-more">
                 <Link to={Reflections[0].titleSlug}>

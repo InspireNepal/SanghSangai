@@ -20,9 +20,8 @@ const AboutSlider = () => {
         <Slider {...settings}>
           <div className="about-slider-item">
             <p>
-              Aeliya(Aeliya Tamang) is a recent graduate of B.Sc.CSIT(Bachelor
-              of Computer Science & Information Technology) program offered by
-              Madan Bhandari Memorial College affiliated to Tribhuvan
+              Aeliya is a recent graduate of B.Sc.CSIT(Bachelor of Computer
+              Science & Information Technology) program offered by Tribhuvan
               University. He got his first laptop only after joining bachelors
               program and since then he developed interest in designing and
               programming. Having gained some experiences as a "Frontend &
@@ -31,11 +30,8 @@ const AboutSlider = () => {
               tech student to excel as a Developer and a Problem Solver. So he
               decided to consider new opportunities and that's when he heard
               about this Inspire program & decided to be a part of it. He is now
-              a part of the team "Sanga Sangai" and is enjoying the journey so
+              a part of the team "SangaSangai" and is enjoying the journey so
               far. He is ready to contribute to his team in the best way he can.
-              Besides computer & programming, he loves music and plays guitar at
-              a local church choir. He is interested in learning audio & video
-              production.
             </p>
             <img src={Quote} alt="Quote" />
             <h3>Aeliya Tamang</h3>
