@@ -1,7 +1,15 @@
 [
   {
+    "title": "Team reflection for the fourth sprint",
+    "titleSlug": "team-reflection-for-the-fourth-sprint",
+    "content": "This sprint, we worked for just the first week and the second week was off because of the Dashain festival. Due to this reason, we didn’t have much time for major progress. But still we managed to do some fixes and refactoring of the code.\n\nWe managed to do a follow-up meeting with our Community Partner (CP) including facilitators. We gave demo of the updated version of the system. This meeting was different for us compared to other previous meetings. Meeting with the facilitators for the first, we were able to gather requirements from their perspective as well. We saw the need to add some new features in the system.\n\nBefore meeting with our CP, we were supposed to update the existing live version of the system with our updated code. As our time management was poor, we failed to do so. We realized that we need to work on our time management skills.",
+    "image": "/SanghSangai/images/reflection4.jpg",
+    "category": "Team Reflection",
+    "publishedDate": " 3rd November  2023"
+  },
+  {
     "title": "Team reflection for the third sprint",
-    "titleSlug": "team-reflection-for-the-thirs-sprint",
+    "titleSlug": "team-reflection-for-the-third-sprint",
     "content": "In this sprint, some of the tasks that our team carried out were setting up Azure DevOps, follow up meeting with community partner and resolved frontend issues. Our team mostly focused on frontend issues these two weeks and we gave a demo of the issues that we fixed to our community partner. It was a good experience learning more about DevOps and it was really beneficial to our team.\n\nWhile giving demo of the updated features in the system to our community partner, we had some experiences. It was our first time showing the updates. We interacted with Micah Nepal’s representative about the features and issues that has already been implemented and to be implemented. We gained some feedbacks and we will try to work on those in the upcoming days.\n\nWhile dealing with sprint tasks, we felt that our progress was super slow. We spent most of our times on fixing small issues on the existing system. We felt that we still have a lot to learn and improve on. We need to focus more on learning the required technologies in depth. We know few things but that’s not enough for implementing the requirements we gathered from our Community partner. We need to be focusing more on understanding the system in the best way possible. We think that we will need to cover up our speed in the upcoming sprint.",
     "image": "/SanghSangai/images/reflection3.jpg",
     "category": "Team Reflection",

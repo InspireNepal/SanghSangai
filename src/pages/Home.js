@@ -56,7 +56,7 @@ const Home = () => {
                   <p className="membername">Aeliya Tamang</p>
                   <p>BSc. CSIT</p>
                   <p>Madan Bhandari Memorial College</p>
-                  <p className="universityname">Tribhuwan University</p>
+                  <p className="universityname">Tribhuvan University</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-4 col-sm-6 mb-3">
@@ -68,7 +68,7 @@ const Home = () => {
                   <p className="membername">Anushka Suyal</p>
                   <p>BSc. CSIT</p>
                   <p>Ambition College</p>
-                  <p className="universityname">Tribhuwan University</p>
+                  <p className="universityname">Tribhuvan University</p>
                 </div>
               </div>
               <div className="col-lg-3 col-md-4 col-sm-6 mb-3">
